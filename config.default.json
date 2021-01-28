@@ -1,0 +1,23 @@
+{
+	"prefix": ".",
+    "discordToken": "",
+    "roleMapping": {
+        "default": "00000",
+        "gen2": "11111",
+        "involvement": "22222",
+        "pokeball": "33333", 
+        "premierball": "44444",
+        "greatball": "55555",
+        "ultraball": "66666",
+        "luxuryball": "77777",
+        "masterball": "88888",
+        "dreamball": "99999",
+        "cherishball": "aaaaa",
+        "ovalcharm": "bbbbb",
+        "shinycharm": "ccccc"
+	},
+	"redditClientId": "ddddd",
+    "redditClientSecret": "eeeee",
+    "redditRefreshToken": "fffff"
+
+}
